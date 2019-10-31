@@ -1,0 +1,28 @@
+main {
+	text-align: center;
+}
+.greet {
+	text-align: center;
+	color: #fff;
+	padding-top: 240px;
+	font-size: 40px;
+}
+.meet {
+	text-align: center;
+	color: #fff;
+	/* padding-top: 240px; */
+	font-size: 76px;
+	font-weight: 700;
+}
+.buttz {
+	width: 224px;
+	height: 69px;
+	background-color: #fec810;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #fff;
+	border-radius: 4px;
+	text-align: center;
+    font-size: 18px;
+    cursor: pointer;
+}
