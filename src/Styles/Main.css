@@ -81,7 +81,7 @@ AFTER SHRINK BUT BEFORE @MEDIA KICKS IN */
 
 /* START
 MEDIA TIME */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 600px) {
 	.wrapper {
 		width: 100vw;
 		height: 7vh;
